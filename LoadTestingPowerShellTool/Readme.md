@@ -28,4 +28,4 @@ This package includes:
 ##### Notes:
 - By default, Aad access token expires in 60 minutes. Reports will run for 60 minutes once initiated and stop with error once access token expires.
 
-###### HTML report file has been designed and implemented by [Sergei Gundorov](https://github.com/sergeig888).
+###### HTML report file has been designed and implemented by [Sergei Gundorov](https://github.com/sergeig888/js-onepager-PBIE).
